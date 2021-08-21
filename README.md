@@ -9,7 +9,7 @@ Creating the Datasets: Utilizing the images provided by link, the first part of 
 
 Creating the Architecture: Utilizing the pre-trained models from PyTorch's torchvision package, we establish different classifier paramaters to fit our datasets as well as establishing an NLL Loss criterion and Adam optimizer
 
-Training the Model: With help from PyTorch and Udacity's GPU-enabled platform, we train our model across our training and validation datasets to create an ideal model for classifying the flowers.
+Training the Model: With help from PyTorch and Colab GPU-enabled platform, we train our model across our training and validation datasets to create an ideal model for classifying the flowers.
 
 Saving / Loading the Model: To practice utilizing the model in other platforms, we export the model to a 'checkpoint.pth' file and re-load / rebuild it in another file.
 
